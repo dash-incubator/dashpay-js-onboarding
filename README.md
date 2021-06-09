@@ -1,12 +1,13 @@
 # DashPay JS Onboarding
 
-## Installation
+## Install
 
 ### Step 1
 ```console
 npm install
+```
 
-### Step 2
+## Run
 ```console
 npm run serve
 ```
